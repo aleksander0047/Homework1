@@ -1,0 +1,7 @@
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\2 задача\TaskForACarRace\TaskForACarRace\obj\Debug\TaskForACarRace.csprojAssemblyReference.cache
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\2 задача\TaskForACarRace\TaskForACarRace\obj\Debug\TaskForACarRace.csproj.CoreCompileInputs.cache
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\2 задача\TaskForACarRace\TaskForACarRace\bin\Debug\TaskForACarRace.exe.config
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\2 задача\TaskForACarRace\TaskForACarRace\bin\Debug\TaskForACarRace.exe
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\2 задача\TaskForACarRace\TaskForACarRace\bin\Debug\TaskForACarRace.pdb
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\2 задача\TaskForACarRace\TaskForACarRace\obj\Debug\TaskForACarRace.exe
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\2 задача\TaskForACarRace\TaskForACarRace\obj\Debug\TaskForACarRace.pdb

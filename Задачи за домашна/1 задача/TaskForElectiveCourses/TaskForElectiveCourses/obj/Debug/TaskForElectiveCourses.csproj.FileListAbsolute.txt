@@ -1,0 +1,7 @@
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\1 задача\TaskForElectiveCourses\TaskForElectiveCourses\bin\Debug\TaskForElectiveCourses.exe.config
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\1 задача\TaskForElectiveCourses\TaskForElectiveCourses\bin\Debug\TaskForElectiveCourses.exe
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\1 задача\TaskForElectiveCourses\TaskForElectiveCourses\bin\Debug\TaskForElectiveCourses.pdb
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\1 задача\TaskForElectiveCourses\TaskForElectiveCourses\obj\Debug\TaskForElectiveCourses.csprojAssemblyReference.cache
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\1 задача\TaskForElectiveCourses\TaskForElectiveCourses\obj\Debug\TaskForElectiveCourses.csproj.CoreCompileInputs.cache
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\1 задача\TaskForElectiveCourses\TaskForElectiveCourses\obj\Debug\TaskForElectiveCourses.exe
+D:\sashko\ФМИ\Онлайн обучение\OOP\Задачи за упр. до 26.05\Задачи за домашна\1 задача\TaskForElectiveCourses\TaskForElectiveCourses\obj\Debug\TaskForElectiveCourses.pdb
